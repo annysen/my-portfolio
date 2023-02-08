@@ -70,3 +70,68 @@ nav ul li {
     margin: 20px 0;
     font-size: 18px;
 }
+
+/* main section style  */
+main {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+.about-section {
+    background: #FFF8F3;
+    border-radius: 10px;
+    margin-top: 130px;
+    padding: 130px 150px;
+}
+
+.section-title {
+    text-align: center;
+    margin-bottom: 30px;
+    font-weight: 700;
+    font-size: 35px;
+}
+
+.section-description {
+    text-align: center;
+    color: #757575;
+    font-size: 18px;
+    margin-bottom: 30px;
+
+}
+
+/* table {
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+table tr td {
+
+    padding-right: 30px;
+    color: #757575;
+    font-size: 20px;
+    text-align: center;
+}
+
+.info td {
+    color: #474747;
+    font-size: 20px;
+    text-align: center;
+    font-weight: 700;
+} */
+
+.about-info-container {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.info-title {
+    color: #757575;
+    font-size: 20px;
+}
+
+.info-description {
+    color: #474747;
+    font-size: 20px;
+    font-weight: 700;
+}
