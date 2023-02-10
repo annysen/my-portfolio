@@ -90,6 +90,11 @@ nav ul li {
     border-radius: 5px;
 }
 
+.banner img {
+    height: 900px;
+
+}
+
 /* main section style  */
 main {
     max-width: 1140px;
